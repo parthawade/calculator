@@ -7,7 +7,7 @@ class Calculator {
 
 	public void addAndPrint(int a, int b) {
 		int c = a+b;
-		System.out.print("From addAndPrint(): "+c);
+		System.out.print("From addAndPrint() from Github: "+c);
 	}
 
 	public static void main(String[] abc) {
